@@ -5,8 +5,6 @@
 This study guide serves as a quick reference guide for study notes for the coding bootcamp.
 
 This provided hands-on experience for basic HTML, CSS, and JavaScript coding as well as utilizing Git commands and GitHub. 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 
 ## Installation
 
